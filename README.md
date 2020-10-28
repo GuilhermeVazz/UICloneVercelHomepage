@@ -16,7 +16,7 @@ Com base no layout para Desktop, pude fazer algumas alterações e adicionar res
 Based on the Desktop layout, I was able to make some changes and add responsiveness to the layout!
 
 ## Versão Mobile | Version Mobile:
-zzZZZzzzzzz
+![](vercelDemoMobile.gif)
 
 ## Versão Desktop | Version Desktop:
 ![](vercelDemoDT.gif)
