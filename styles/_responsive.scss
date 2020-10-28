@@ -1,0 +1,55 @@
+//Media query
+
+@media (max-width: 41.4rem){
+    header{
+        max-width: 40rem;
+
+        .left {
+            height: 2rem;
+            margin-left: 1.4rem;
+        
+            img {
+              height: 100%;
+            }
+          }
+
+          .middle ul {
+            display: flex;
+            flex-direction:column; 
+            list-style: none;
+            display: none;
+        
+            padding: .3rem .4rem;
+            li a {
+              font-size: 1.4rem;
+              padding: .5rem .8rem;
+              margin-left: 0.5rem;
+              color: var(--gray);
+              text-decoration: none;
+        
+              & + a {
+                margin-left: 1.2rem;
+              }
+                 
+            }
+           
+          }
+    }
+     
+    main{
+        max-width: 400px;
+
+        h1{
+            font-size: 8.8rem;
+            line-height: 100%;
+            letter-spacing: -0.64rem;
+            color: var(--white);
+        }
+
+        h2{
+            max-width: 400px;
+            font-size: 1.5rem;
+            font-weight: 200;
+        }
+    }
+}
