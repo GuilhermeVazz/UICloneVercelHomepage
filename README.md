@@ -19,7 +19,7 @@ Based on the Desktop layout, I was able to make some changes and add responsiven
 zzZZZzzzzzz
 
 ## Versão Desktop | Version Desktop:
-zZZZzzzZZzz
+![](vercelDemoDT.gif)
 
 ## Agradecimentos | Thanks:
 [Rocketseat](https://www.youtube.com/watch?v=XdqD8qi44Cg&t=2s)<br>
